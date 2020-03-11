@@ -1,0 +1,23 @@
+body {
+    background: #fff3e0;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
